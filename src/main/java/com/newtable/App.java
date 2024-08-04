@@ -1,4 +1,4 @@
-package com.yc.newtable;
+package com.newtable;
 
 /**
  * 启动的时候对于已经存在的类进行建表操作

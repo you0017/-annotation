@@ -1,4 +1,4 @@
-package com.yc.newtable.bean;
+package com.newtable.bean;
 
 import com.newtable.annotation.Field;
 import com.newtable.annotation.PrimaryKey;

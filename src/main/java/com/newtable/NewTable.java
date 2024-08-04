@@ -1,4 +1,4 @@
-package com.yc.newtable;
+package com.newtable;
 
 import com.newtable.annotation.PrimaryKey;
 import com.newtable.annotation.Table;

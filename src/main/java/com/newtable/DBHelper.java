@@ -1,4 +1,4 @@
-package com.yc.newtable;
+package com.newtable;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

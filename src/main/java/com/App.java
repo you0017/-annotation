@@ -1,4 +1,4 @@
-package com.yc;
+package com;
 
 /**
  * Hello world!

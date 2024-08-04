@@ -1,4 +1,4 @@
-package com.yc.newtable.annotation;
+package com.newtable.annotation;
 
 
 

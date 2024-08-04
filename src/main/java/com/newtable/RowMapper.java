@@ -1,4 +1,4 @@
-package com.yc.newtable;
+package com.newtable;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
